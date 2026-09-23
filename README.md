@@ -15,3 +15,4 @@
 
 Or instead of doing all those steps just make AppContainer.getOrCreateChessEngine() return FakeChessEngine, but that would make AI dumb.
 
+<img width="600" height="882" alt="Screenshot (856)" src="https://github.com/user-attachments/assets/bce84bdc-3d3f-4125-99a9-1a29c138d8a3" />
